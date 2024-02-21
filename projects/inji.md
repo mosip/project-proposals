@@ -5,7 +5,7 @@ Inji - Means knowing or recognizance in [Korean](https://en.wikipedia.org/wiki/K
 Inji is a reference app and provides most of the necessary components to act as a wallet. It supports feature such as credential download, share with relying party, online login into relying party. It's written in React Native.
 
 # Alignment with the OpenWallet Foundation Mission
-Inji is a reference app for the digital wallet to download the credential, store and view securely, share with relying party and perform authorization with it. It helps the resident to use the credential when in need at crucial situation and avail the service requested. it is written in react native to be usable in both android and ios covering wide range user and be inclusive and it can be used widely.
+Inji is a reference app for the digital wallet to download the credential, store and view securely, share with relying party and perform authorization with it. It helps the resident to use the credential when in need at crucial situation and avail the service requested. It's written in React Native to be usable in both Android and iOS covering wide range user and be inclusive.
 
 # Current Code of Conduct
 [Code of Conduct](https://docs.mosip.io/1.2.0/community/code-of-conduct)
