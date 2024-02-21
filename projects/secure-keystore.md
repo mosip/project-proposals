@@ -5,7 +5,7 @@ Secure-keystore
 A React Native module to create and store keys in android hardware keystore and helps to do encryption, decryption, hmac calculation.
 
 # Alignment with the OpenWallet Foundation Mission
-This libabry contains a react-native wrapper to store the secure data in android keystore and helps to do encryption, decryption, hmac calculation for android devices which supports hardware backed keystore. The libabry is implemted only for android. This libaby allows user to store the Verifiable Presentation (VP) securely using hardware backed keystore. As the libabry allows HMAC calculation we can use the same libabry to verify that if the sotored data has been tampered.
+This library contains a react-native wrapper to store the secure data in android keystore and helps to do encryption, decryption, hmac calculation for android devices which supports hardware backed keystore. The library is implemented only for android. As the library allows HMAC calculation we can use the same library to verify that if the data has been tampered.
 
 
 # Current Code of Conduct
