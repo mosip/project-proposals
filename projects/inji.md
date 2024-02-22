@@ -22,7 +22,7 @@ Currently the project is hosted with  MIT license. We will move to Apache licens
 [Repository](https://github.com/mosip/inji)
 
 # Issue Tracker
-[Jira](https://mosip.atlassian.net/jira/software/c/projects/INJIMOB/boards/91)
+[Jira](https://mosip.atlassian.net/jira/software/c/projects/INJIMOB/issues/?filter=allissues)
 
 # External Dependencies
 ```
