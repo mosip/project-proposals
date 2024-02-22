@@ -23,7 +23,7 @@ Currently the project is hosted with MPL 2.0 license. We will move to Apache lic
 [Repository](https://github.com/mosip/secure-keystore)
 
 # Issue Tracker
-[Jira](https://mosip.atlassian.net/jira/software/c/projects/INJIMOB/boards/91)
+[Jira](https://mosip.atlassian.net/jira/software/c/projects/INJIMOB/issues/?jql=project%20%3D%20%22Inji%20Mobile%22%20and%20labels%20in%20(secure-keystore)%20ORDER%20BY%20created%20DESC)
 
 # External Dependencies
 ```
